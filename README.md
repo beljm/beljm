@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=jimin's%20github&fontSize=40)
 <div align="center">
 
+***
+  
 ### 블록체인을 공부하고 있는 개발자입니다.
+
+***
   
 <h3 align="center" >Skill</h3>
 <h4>BlockChain</h4>
@@ -11,7 +15,8 @@
 <h4>Back-End</h4>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
-
+***
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beljm&layout=compact&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beljm&show_icons=true&theme=radical)  
