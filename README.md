@@ -14,7 +14,7 @@ I am studying Ethereum and am aiming to be a Dapp and core developer.
 #### Back-End
 <div><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></div>
 
-## My github
+## My repo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beljm&layout=compact&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beljm&show_icons=true&theme=radical)  
