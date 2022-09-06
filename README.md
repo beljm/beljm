@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=140&section=header&text=jimin's%20github&fontSize=35)
 
 ## About Me
-블록체인을 공부하고 있는 개발자입니다.
+Hi, I am Jimin Lee, an aspiring blockchain engineer.
+I am studying Ethereum and am aiming to be a Dapp and core developer.
 
 ## Skill
 #### BlockChain
