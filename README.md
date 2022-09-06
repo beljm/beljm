@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jimin's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=jimin's%20github&fontSize=90)
 <div align="center">
 
 ## 블록체인을 공부하고 있는 개발자입니다.
@@ -20,4 +20,4 @@
   
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
