@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=header&text=jimin's%20github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=jimin's%20github&fontSize=40)
 <div align="center">
 
 ### 블록체인을 공부하고 있는 개발자입니다.
   
-<h2 align="center">Skill</h2>
+<div align="center" size=10>Skill</div>
 <h4>BlockChain</h4>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white">
 <h4>Front-End</h4>
@@ -19,4 +19,4 @@
   
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer)
