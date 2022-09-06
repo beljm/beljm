@@ -3,8 +3,6 @@
   
 <h1 align="center">Skill</h1>
 
-***
-
 <h3>BlockChain</h3>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white">
 <h3>Front-End</h3>
