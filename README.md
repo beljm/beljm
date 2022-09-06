@@ -1,13 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=jimin's%20github&fontSize=40)
-<div align="center">
 
-***
-  
-### 블록체인을 공부하고 있는 개발자입니다.
+### About Me
+#### 블록체인을 공부하고 있는 개발자입니다.
 
-***
-  
-<h3 align="center" >Skill</h3>
+### Skill
 <h4>BlockChain</h4>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white">
 <h4>Front-End</h4>
@@ -20,7 +16,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beljm&layout=compact&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beljm&show_icons=true&theme=radical)  
-  
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer)
