@@ -8,8 +8,10 @@
 <h3>Front-End</h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <h3>Back-End</h3>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">  
-<br/><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+
+***
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beljm&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beljm&layout=compact&theme=radical)  
