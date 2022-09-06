@@ -3,7 +3,7 @@
 
 ### 블록체인을 공부하고 있는 개발자입니다.
   
-<div align="center" size=20>Skill</div>
+<h3 align="center" >Skill</h3>
 <h4>BlockChain</h4>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white">
 <h4>Front-End</h4>
