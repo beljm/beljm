@@ -3,6 +3,8 @@
   
 <h1 align="center">Skill</h1>
 
+***
+
 <h3>BlockChain</h3>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white">
 <h3>Front-End</h3>
@@ -12,8 +14,8 @@
 
 ***
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beljm&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beljm&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beljm&layout=compact&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beljm&show_icons=true&theme=radical)  
   
 </div>
