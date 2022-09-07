@@ -12,7 +12,7 @@ I am studying Ethereum and am aiming to be a Dapp and core developer.
 <div><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"></div>
 
 #### Back-End
-<div><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></div>
+<div><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"></div>
 
 ## My repo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beljm&layout=compact&theme=radical)
